@@ -1,7 +1,7 @@
 import { scrtLink, SecretType } from '@scrt-link/client'
 import './index.css'
 
-const API_KEY = '<your-api-key>';
+const API_KEY = import.meta.env.VITE_API_KEY || '';
 const client = scrtLink(API_KEY);
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `

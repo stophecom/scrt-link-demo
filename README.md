@@ -15,10 +15,11 @@ npm install
 ```
 
 ### Running Locally
-```bash
-npm run dev
-```
-Open [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal) to view the app.
+1. Create a `.env` file based on `.env.example`.
+2. Install dependencies: `npm install`.
+3. Start dev server: `npm run dev`.
+
+Open [http://localhost:5173](http://localhost:5173) to view the app.
 
 ## How to use `@scrt-link/client`
 
