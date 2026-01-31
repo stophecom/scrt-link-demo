@@ -15,6 +15,8 @@ npm install
 ```
 
 ### Running Locally
+Before you start, get an API key from https://scrt.link.
+
 1. Create a `.env` file based on `.env.example`.
 2. Install dependencies: `npm install`.
 3. Start dev server: `npm run dev`.
