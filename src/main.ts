@@ -10,7 +10,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
       <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
     </svg>
-    <h1>SCRT Link</h1>
+    <h1>scrt.link demo</h1>
     <p>The essence of secure communication.</p>
     
     <div class="card">

@@ -1,4 +1,4 @@
-# SCRT Link Demo
+# scrt.link Demo
 
 A minimalistic web project demonstrating the usage of the `@scrt-link/client` package.
 
