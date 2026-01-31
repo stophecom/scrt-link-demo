@@ -13,6 +13,6 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
-    "@scrt-link/client": "file:../scrt-link-v2/packages/client"
+    "@scrt-link/client": "^0.0.1"
   }
 }
