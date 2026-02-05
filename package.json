@@ -13,6 +13,6 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
-    "@scrt-link/client": "^0.0.1"
+    "@scrt-link/client": "^0.0.8"
   }
 }
